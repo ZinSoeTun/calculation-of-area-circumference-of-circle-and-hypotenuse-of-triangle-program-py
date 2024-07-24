@@ -1,1 +1,1 @@
-This program is written by python which calcalate the area and circumference of circle & hypotenuse of triangle 
+This program is written by python which calcalates the area and circumference of circle & hypotenuse of triangle 
